@@ -16,7 +16,7 @@ Otherwise the bot with change it back to it's previous name.
 2. then hit it with __*start*__
   * if it dont work, intialize with __*install*__  then __*start*__
 
-node command list:
+**node command list:**
    * "test": "echo \"Error: no test specified\" && exit 1",
    * "install": "npm init -y && npm install discord.js",
    * "start": "node bot.js",
