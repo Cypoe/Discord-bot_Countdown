@@ -7,4 +7,5 @@ Otherwise the bot with change it back to it's previous name.
 ![Discord_YFOM6kgRcN](https://user-images.githubusercontent.com/39304197/109067877-63e2c780-76ef-11eb-8792-00d465a31282.png)
 
 #It even posts error messages!
+
 ![Discord_t3gnzT0uRs](https://user-images.githubusercontent.com/39304197/109068533-49f5b480-76f0-11eb-85dd-252439e6336a.png)
