@@ -2,7 +2,7 @@
 A small Discord Bot that changes the channel-name to a Countdown-Clock which counts down towards a date and time. This is up bcs of demand.
 
 ## Commands
-The Bot was created for Clint Jones (aka pwnisher) for his **Create with Clint** Discord, where he hosts his weekly-Challebges. That's why the *!weekly* command is there.
+The Bot was created for Clint Jones (aka pwnisher) for his **Create with Clint** Discord, where he hosts his weekly-Challenges. That's why the *!weekly* command is there.
 Otherwise the bot with change it back to it's previous name.
 ![Discord_YFOM6kgRcN](https://user-images.githubusercontent.com/39304197/109067877-63e2c780-76ef-11eb-8792-00d465a31282.png)
 
@@ -12,8 +12,9 @@ Otherwise the bot with change it back to it's previous name.
 
 ## How to use
 
-1. Host these files on any VPS.
-2. then hit it with __*start*__
+1. Update the config with your  bot token
+2. Host these files on any VPS.
+3. then hit it with __*start*__
   * if it dont work, intialize with __*install*__  then __*start*__
 
 ### **node command list:**
